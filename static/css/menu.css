@@ -1,0 +1,19 @@
+.menuWrapper ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+
+.menuWrapper li{
+
+}  
+
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+  }
