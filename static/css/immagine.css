@@ -6,8 +6,8 @@
 }
 
 .hero{
-    width: 100vw; /* larghezza: 100% della larghezza della viewport (100% viewport width)*/
-    min-height: 100vh; /* larghezza: 100% dell'altezza della viewport (100% viewport height)*/
+    width: 100vw; 
+    min-height: 100vh; 
     background-image: url("/static/images/test.png");
     background-repeat: no-repeat;
     background-size: cover;
