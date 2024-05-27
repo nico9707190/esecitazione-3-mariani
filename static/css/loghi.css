@@ -1,0 +1,19 @@
+.loghi ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.loghi{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-top: 270px;
+    margin-right: 35px;
+    margin-bottom: 30px;
+}
+
+.loghi li{
+    list-style: none;
+    padding-left: 67px;
+}

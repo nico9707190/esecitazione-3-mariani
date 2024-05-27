@@ -1,10 +1,49 @@
-.titolo h1{
+.titolop{
     font-size: 80px;
     font-weight: bold;
+    border-bottom: solid #343434;
+    border-top: solid #343434;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 0px;
+    margin-bottom: 60px;
+    color: white;
 }
 
 .testo{
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     margin-top: 180px;
+}
+
+.paragrafo{
+    font-size: 30px;
+    margin-bottom: 58px;
+    text-align: center;
+    color: white;
+}
+
+.bottone a{
+    list-style: none;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: #080C71;
+    background-color: white;
+    margin-top: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 120px;
+    padding-right: 120px;
+    border-radius: 15px;
+}
+
+.bottone{
+    display: flex;
+    border-top: solid;
+    border-top-color: white;
+    margin-top: 20px;
+    margin-bottom: 115px;
 }
