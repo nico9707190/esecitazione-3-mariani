@@ -10,8 +10,6 @@
     min-height: 100vh; 
     background-image: url("/static/images/test.png");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
     font-size: 110px;
     position: relative;
 }
